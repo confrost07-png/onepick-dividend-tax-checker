@@ -1,0 +1,18 @@
+원픽 분석 DB (DuckDB 파일 하나)
+
+파일: onepick_20261104.duckdb (256.1MB)
+만든 때: 2026-11-04 11:16, PostgreSQL 17 onepick DB를 그대로 옮김 (코드 기준 커밋 bb3ebbd)
+담긴 것: 표 61개 + 보기 13개(지금 값 그대로 표로 굳힘)
+  - raw: 받은 원천 자료 (KIND 목록, OpenDART 배당·재무, 배당 결정 공시, KRX 시세, ECOS 거시지표, 밸류업 공시 OCR 등)
+  - core: 검증·확정 값과 판정·최소 필요 배당·분석 결과 (예: core.core_judgement_2026 = 판정 638곳)
+  - ref: 세율표
+  - partner: 대조군 데이터
+  - main._about: 표마다 행 수·확인값·만든 때·git 커밋 / main._columns: 열 자료형 / main._ddl: PostgreSQL 표 정의
+확인: 74개 표 모두 PostgreSQL과 행 수 같음, 판정 충족 530 · 미충족 43 · 판정 보류 65
+
+여는 법 (Python):
+  pip install duckdb
+  python -c "import duckdb; print(duckdb.connect('onepick_20261104.duckdb', read_only=True).sql('select status, count(*) from core.core_judgement_2026 group by 1'))"
+
+PostgreSQL로 되살리기 (07_소스코드 폴더에서):
+  PYTHONPATH=source python -m scripts.restore_duckdb ../08_DB/onepick_20261104.duckdb
