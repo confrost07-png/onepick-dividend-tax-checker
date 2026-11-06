@@ -1,0 +1,35 @@
+[project]
+name = "final-project-one-pick"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "psycopg[binary]>=3.2",
+    "openpyxl>=3.1",
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+    "pillow>=11",
+]
+
+[project.optional-dependencies]
+# 외부 자료 수집(source/core/sources). 계산 엔진·화면만 쓸 때는 필요 없음
+collect = ["requests>=2.32", "pykrx>=1.0", "openpyxl>=3.1"]
+
+[dependency-groups]
+dev = ["pytest>=8", "httpx>=0.27"]
+
+[tool.pytest.ini_options]
+# 이 파일은 source/ 안에 있다. 계산 코드(core·api·scripts·ui)도 같은 폴더에 있다
+# 실행: 맨 위 폴더에서 python -m pytest source/tests -q
+pythonpath = ["."]
+testpaths = ["tests"]
+
+# source/ 패키지를 설치해 두면 어느 폴더에서든 `python -m scripts.run_api`처럼 바로 실행된다
+# (맨 위 폴더에서 pip install -r requirements.txt 한 번, 그 안의 -e ./source가 이 설정을 씀)
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["core*", "api*", "scripts*", "ui*"]
