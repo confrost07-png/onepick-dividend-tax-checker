@@ -1,0 +1,433 @@
+﻿lag,lag_label,kind,dividend,dividend_label,macro,macro_label,n,rows,years,spearman,spearman_p
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",9.0,,,0.3333,0.3889
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),9.0,,,0.6667,0.0586
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.55,0.139
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),9.0,,,0.9333,0.001
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),9.0,,,-0.5333,0.1468
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),9.0,,,0.5667,0.1192
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),9.0,,,-0.7833,0.0167
+same,같은 해 (Y년 1~12월),level,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),9.0,,,0.7333,0.0309
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",9.0,,,0.5333,0.1513
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),9.0,,,0.1333,0.7412
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),9.0,,,-0.05,0.9122
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),9.0,,,0.7333,0.0285
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),9.0,,,-0.6333,0.0749
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),9.0,,,0.1667,0.676
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),9.0,,,-0.25,0.5198
+same,같은 해 (Y년 1~12월),level,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),9.0,,,0.25,0.5204
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",9.0,,,0.5,0.1841
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),9.0,,,0.4,0.2877
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),9.0,,,0.3167,0.4069
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),9.0,,,0.8,0.0131
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),9.0,,,-0.3333,0.3853
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),9.0,,,0.5333,0.1458
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),9.0,,,-0.65,0.0673
+same,같은 해 (Y년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),9.0,,,0.5667,0.1178
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.6547,0.112
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,-0.1715,0.7163
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.2026,0.644
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),8.0,,,0.2182,0.6045
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.0312,0.9631
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),8.0,,,0.0935,0.8188
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),8.0,,,-0.1559,0.7526
+same,같은 해 (Y년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),8.0,,,0.2182,0.6071
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.619,0.1188
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,0.0476,0.9317
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.0476,0.9337
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.5238,0.1984
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.0952,0.8422
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.4286,0.2956
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.381,0.3519
+same,같은 해 (Y년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),8.0,,,0.3571,0.3882
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.8095,0.0214
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,0.2143,0.617
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.4286,0.2945
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,-0.0476,0.9371
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.0714,0.8817
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.4048,0.3298
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.0238,0.9763
+same,같은 해 (Y년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),8.0,,,-0.1667,0.7006
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",9.0,,,0.25,0.5177
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),9.0,,,0.8667,0.004
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.7333,0.0323
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),9.0,,,0.8167,0.0107
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),9.0,,,-0.5667,0.1206
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),9.0,,,0.35,0.359
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),9.0,,,-0.6667,0.0595
+same,같은 해 (Y년 1~12월),level,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),9.0,,,0.85,0.0063
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.5,0.2191
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,-0.3095,0.4601
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.0952,0.8366
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.0,1.0
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.4048,0.3257
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,-0.0952,0.8401
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.3571,0.3868
+same,같은 해 (Y년 1~12월),diff,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),8.0,,,0.3095,0.4595
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",8.0,,,0.5238,0.198
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),8.0,,,-0.6667,0.083
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),8.0,,,-0.6905,0.07
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),8.0,,,0.0714,0.8784
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.3333,0.4248
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),8.0,,,-0.1667,0.705
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),8.0,,,0.9048,0.0047
+same,같은 해 (Y년 1~12월),diff,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),8.0,,,-0.8571,0.011
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",8.0,,,0.5238,0.1944
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),8.0,,,-0.5952,0.133
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),8.0,,,-0.3571,0.3877
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),8.0,,,-0.3095,0.465
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),8.0,,,0.6905,0.0703
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),8.0,,,-0.0238,0.9762
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),8.0,,,0.2381,0.5775
+same,같은 해 (Y년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),8.0,,,-0.3571,0.3846
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.4729,0.3291
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),7.0,,,-0.5714,0.2067
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),7.0,,,-0.3744,0.4313
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),7.0,,,-0.4532,0.3323
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.4926,0.2834
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),7.0,,,-0.0985,0.8379
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),7.0,,,0.2364,0.6156
+same,같은 해 (Y년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),7.0,,,-0.3349,0.4828
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.6429,0.1431
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,-0.75,0.0682
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,-0.3571,0.4446
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,-0.3571,0.4419
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.5357,0.2329
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,0.0,1.0
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,0.4286,0.3621
+same,같은 해 (Y년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),7.0,,,-0.5714,0.2068
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,-0.5,0.2694
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,0.4286,0.3606
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,0.3571,0.4409
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,0.2857,0.5467
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,-0.75,0.0638
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,0.2143,0.6538
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,-0.1786,0.7153
+same,같은 해 (Y년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),7.0,,,0.2857,0.5594
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.2156,0.612
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,0.2994,0.4745
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.4072,0.3121
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),8.0,,,-0.0359,0.9462
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.1557,0.718
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),8.0,,,-0.2275,0.5898
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),8.0,,,0.1198,0.7807
+same,같은 해 (Y년 1~12월),diff,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),8.0,,,-0.0599,0.8999
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3908.0,8.0,0.1044,0.2919
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3908.0,8.0,-0.1312,0.1574
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3908.0,8.0,-0.074,0.5022
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3908.0,8.0,-0.025,0.8126
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3908.0,8.0,-0.0542,0.6347
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3908.0,8.0,-0.0181,0.8811
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3908.0,8.0,0.0032,0.9795
+same,같은 해 (Y년 1~12월),panel,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3908.0,8.0,-0.0227,0.8406
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4899.0,8.0,0.121,0.2389
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4899.0,8.0,-0.1178,0.2689
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4899.0,8.0,-0.0658,0.5842
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4899.0,8.0,-0.0042,0.975
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4899.0,8.0,-0.073,0.5507
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4899.0,8.0,0.0129,0.9165
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4899.0,8.0,-0.0059,0.9675
+same,같은 해 (Y년 1~12월),panel,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4899.0,8.0,-0.0057,0.9665
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3343.0,7.0,0.0223,0.6807
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3343.0,7.0,-0.0539,0.2629
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3343.0,7.0,0.0203,0.7156
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3343.0,7.0,-0.049,0.3208
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3343.0,7.0,0.0513,0.2899
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3343.0,7.0,0.0014,0.9745
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3343.0,7.0,-0.0198,0.7266
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3343.0,7.0,-0.0068,0.906
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4269.0,7.0,0.0268,0.4988
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4269.0,7.0,-0.0277,0.4898
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4269.0,7.0,0.0391,0.2929
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4269.0,7.0,-0.0297,0.4583
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4269.0,7.0,0.0327,0.4058
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4269.0,7.0,0.0343,0.3843
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4269.0,7.0,-0.0334,0.3828
+same,같은 해 (Y년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4269.0,7.0,0.0178,0.6562
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",9.0,,,-0.1333,0.7459
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),9.0,,,0.55,0.1343
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.5,0.1818
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),9.0,,,0.8,0.0139
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.4524,0.2612
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.619,0.1121
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),9.0,,,-0.6667,0.0608
+prev,1년 전 (Y−1년 1~12월),level,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),9.0,,,0.5833,0.1077
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",9.0,,,-0.05,0.9101
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),9.0,,,0.4667,0.2157
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),9.0,,,0.2,0.6144
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),9.0,,,0.7,0.0439
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.6429,0.0942
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),8.0,,,-0.119,0.7865
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),9.0,,,-0.2833,0.4607
+prev,1년 전 (Y−1년 1~12월),level,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),9.0,,,0.4833,0.1917
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",9.0,,,0.0,1.0
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),9.0,,,0.3833,0.3128
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),9.0,,,0.2667,0.495
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),9.0,,,0.7667,0.021
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),8.0,,,-0.6429,0.0954
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),8.0,,,0.3333,0.4229
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),9.0,,,-0.4667,0.2117
+prev,1년 전 (Y−1년 1~12월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),9.0,,,0.3833,0.31
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.5455,0.1819
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,0.0779,0.861
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.1715,0.7148
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),8.0,,,0.5455,0.1818
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.5923,0.146
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),8.0,,,-0.2026,0.6424
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),8.0,,,0.0312,0.9642
+prev,1년 전 (Y−1년 1~12월),level,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),8.0,,,0.1091,0.788
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.3095,0.4575
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,0.2143,0.6231
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.0714,0.8773
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.7857,0.03
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.6667,0.084
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.0714,0.8803
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.3333,0.4275
+prev,1년 전 (Y−1년 1~12월),level,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),8.0,,,0.2381,0.5876
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.4048,0.3278
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,-0.2857,0.4986
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.0952,0.8373
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,-0.3095,0.465
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.6429,0.0991
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.3333,0.4249
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.119,0.7917
+prev,1년 전 (Y−1년 1~12월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),8.0,,,-0.1667,0.7006
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",9.0,,,-0.1333,0.7405
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),9.0,,,0.5833,0.1071
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.7333,0.0313
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),9.0,,,0.5333,0.147
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.0238,0.9768
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),8.0,,,0.8095,0.0208
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),9.0,,,-0.8,0.0145
+prev,1년 전 (Y−1년 1~12월),level,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),9.0,,,0.75,0.0245
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.7381,0.0459
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,-0.1905,0.6688
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.0952,0.844
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.3095,0.4643
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,-0.2857,0.5451
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,-0.2857,0.5546
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,0.2857,0.4995
+prev,1년 전 (Y−1년 1~12월),diff,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),8.0,,,-0.2381,0.5792
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.0952,0.8416
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),8.0,,,0.0476,0.9358
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),8.0,,,-0.4048,0.3291
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),8.0,,,0.3095,0.4604
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),7.0,,,0.2857,0.5526
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),7.0,,,-0.7143,0.0879
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),8.0,,,0.0,1.0
+prev,1년 전 (Y−1년 1~12월),diff,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),8.0,,,0.0238,0.9769
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",8.0,,,0.6905,0.0706
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),8.0,,,-0.5476,0.1738
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),8.0,,,-0.5,0.2139
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),8.0,,,0.1429,0.7532
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),7.0,,,-0.2143,0.6555
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),7.0,,,-0.6429,0.1401
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),8.0,,,0.6905,0.0719
+prev,1년 전 (Y−1년 1~12월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),8.0,,,-0.5238,0.1991
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.6108,0.1594
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),7.0,,,-0.4729,0.3251
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),7.0,,,-0.532,0.221
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),7.0,,,0.4335,0.3598
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),7.0,,,-0.3152,0.527
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),7.0,,,-0.3744,0.4322
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),7.0,,,0.6305,0.1256
+prev,1년 전 (Y−1년 1~12월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),7.0,,,-0.532,0.2194
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.75,0.0661
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,-0.5,0.2686
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,-0.6429,0.139
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,0.25,0.5915
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,-0.25,0.5899
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,-0.6786,0.1112
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,0.6429,0.1422
+prev,1년 전 (Y−1년 1~12월),diff,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),7.0,,,-0.5,0.2732
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,-0.75,0.0677
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,0.3571,0.4436
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,0.3214,0.5016
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,-0.1429,0.783
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.2857,0.5482
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,0.5,0.2697
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,-0.6071,0.1706
+prev,1년 전 (Y−1년 1~12월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),7.0,,,0.4643,0.3101
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.0958,0.8259
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,0.1916,0.6454
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.6347,0.0982
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),8.0,,,-0.1677,0.6909
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.0901,0.8626
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),7.0,,,-0.0721,0.8873
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),8.0,,,-0.5988,0.121
+prev,1년 전 (Y−1년 1~12월),diff,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),8.0,,,0.7545,0.0377
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3908.0,8.0,0.1892,0.001
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3908.0,8.0,-0.1481,0.094
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3908.0,8.0,-0.1149,0.2284
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3908.0,8.0,0.0577,0.6222
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3908.0,8.0,-0.1272,0.1814
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3908.0,8.0,-0.0375,0.7211
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3908.0,8.0,0.119,0.2094
+prev,1년 전 (Y−1년 1~12월),panel,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3908.0,8.0,-0.1167,0.2194
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4899.0,8.0,0.1897,0.001
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4899.0,8.0,-0.1295,0.2094
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4899.0,8.0,-0.0782,0.5232
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4899.0,8.0,0.0666,0.5907
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4899.0,8.0,-0.1177,0.2714
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4899.0,8.0,0.0107,0.926
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4899.0,8.0,0.0809,0.4908
+prev,1년 전 (Y−1년 1~12월),panel,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4899.0,8.0,-0.0791,0.5007
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3343.0,7.0,0.0867,0.0115
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3343.0,7.0,-0.0592,0.1799
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3343.0,7.0,-0.0603,0.1754
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3343.0,7.0,0.0154,0.8041
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3343.0,7.0,-0.0821,0.0275
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3343.0,7.0,-0.0526,0.2809
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3343.0,7.0,0.0693,0.1044
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3343.0,7.0,-0.0657,0.1269
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4269.0,7.0,0.0699,0.024
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4269.0,7.0,-0.0297,0.4328
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4269.0,7.0,-0.0151,0.7251
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4269.0,7.0,0.0167,0.6767
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4269.0,7.0,-0.0631,0.052
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4269.0,7.0,-0.0094,0.8201
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4269.0,7.0,0.022,0.5792
+prev,1년 전 (Y−1년 1~12월),panel_ex2025,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4269.0,7.0,-0.0196,0.6192
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",9.0,,,0.6,0.095
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),9.0,,,0.5774,0.1138
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.6167,0.0857
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),9.0,,,0.95,0.0003
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),9.0,,,0.1333,0.7451
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),9.0,,,0.6333,0.0757
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),9.0,,,-0.7167,0.0364
+decision,결의 시점 (Y+1년 1~3월),level,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),9.0,,,0.8954,0.002
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",9.0,,,0.7833,0.017
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),9.0,,,0.0084,0.9915
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),9.0,,,0.1,0.806
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),9.0,,,0.5833,0.1072
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),9.0,,,0.2,0.6099
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),9.0,,,0.4333,0.2507
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),9.0,,,-0.2,0.6076
+decision,결의 시점 (Y+1년 1~3월),level,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),9.0,,,0.4603,0.2112
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",9.0,,,0.5667,0.1195
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),9.0,,,0.3933,0.2919
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),9.0,,,0.4833,0.1886
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),9.0,,,0.8833,0.003
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),9.0,,,0.1667,0.6782
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),9.0,,,0.6667,0.0589
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),9.0,,,-0.6167,0.0856
+decision,결의 시점 (Y+1년 1~3월),level,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),9.0,,,0.8285,0.0087
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.4364,0.324
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,-0.0941,0.8357
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.1559,0.7478
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),8.0,,,0.4364,0.3208
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.7638,0.0377
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),8.0,,,0.2026,0.6452
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),8.0,,,-0.0156,1.0
+decision,결의 시점 (Y+1년 1~3월),level,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),8.0,,,0.4364,0.3208
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.5,0.216
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,0.2156,0.6029
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.4048,0.3224
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.619,0.1146
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.381,0.3647
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.5476,0.1668
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.3333,0.4195
+decision,결의 시점 (Y+1년 1~3월),level,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),8.0,,,0.619,0.1146
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.4286,0.2983
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,0.4192,0.2961
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.2857,0.4989
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,-0.2619,0.5349
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.4524,0.2709
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,0.2619,0.5351
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.3095,0.462
+decision,결의 시점 (Y+1년 1~3월),level,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),8.0,,,-0.2619,0.5349
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",9.0,,,0.3833,0.3131
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),9.0,,,0.6946,0.0476
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),9.0,,,0.5833,0.1061
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),9.0,,,0.8833,0.003
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),9.0,,,-0.1,0.8132
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),9.0,,,0.25,0.5198
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),9.0,,,-0.6167,0.0831
+decision,결의 시점 (Y+1년 1~3월),level,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),9.0,,,0.8201,0.0094
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),current_account,"경상수지(연간, 백만달러)",8.0,,,0.3095,0.4619
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),base_rate,기준금리(연평균 %),8.0,,,-0.0952,0.8423
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),ktb3y,국고채 3년(연평균 %),8.0,,,0.2143,0.6195
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),usdkrw,원/달러(연평균),8.0,,,0.3333,0.4232
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),gdp_growth,실질 GDP 성장률(%),8.0,,,0.3571,0.3925
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),cpi_growth,물가상승률(%),8.0,,,-0.0238,0.9777
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),unemployment,실업률(연평균 %),8.0,,,-0.4286,0.3017
+decision,결의 시점 (Y+1년 1~3월),diff,payer_share,배당한 회사 비율(%),employment,고용률(연평균 %),8.0,,,0.4048,0.3255
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),current_account,"경상수지(연간, 백만달러)",8.0,,,0.5952,0.1341
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),base_rate,기준금리(연평균 %),8.0,,,-0.5238,0.2005
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),ktb3y,국고채 3년(연평균 %),8.0,,,-0.4524,0.2668
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),usdkrw,원/달러(연평균),8.0,,,-0.7381,0.0461
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),gdp_growth,실질 GDP 성장률(%),8.0,,,0.2619,0.54
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),cpi_growth,물가상승률(%),8.0,,,-0.3095,0.4644
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),unemployment,실업률(연평균 %),8.0,,,0.8571,0.011
+decision,결의 시점 (Y+1년 1~3월),diff,total_tril,현금배당총액(조 원),employment,고용률(연평균 %),8.0,,,-0.9762,0.0004
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",current_account,"경상수지(연간, 백만달러)",8.0,,,0.1905,0.6673
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",base_rate,기준금리(연평균 %),8.0,,,-0.1905,0.663
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",ktb3y,국고채 3년(연평균 %),8.0,,,-0.1429,0.749
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",usdkrw,원/달러(연평균),8.0,,,0.0714,0.8836
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",gdp_growth,실질 GDP 성장률(%),8.0,,,0.1905,0.6642
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",cpi_growth,물가상승률(%),8.0,,,0.0,1.0
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",unemployment,실업률(연평균 %),8.0,,,-0.0714,0.8848
+decision,결의 시점 (Y+1년 1~3월),diff,total_ex_samsung_tril,"현금배당총액(삼성전자 제외, 조 원)",employment,고용률(연평균 %),8.0,,,-0.1429,0.752
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.5123,0.2684
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),base_rate,기준금리(연평균 %),7.0,,,-0.0985,0.8379
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),ktb3y,국고채 3년(연평균 %),7.0,,,0.0394,0.9533
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),usdkrw,원/달러(연평균),7.0,,,-0.1773,0.7238
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.6108,0.1621
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),cpi_growth,물가상승률(%),7.0,,,-0.0394,0.9507
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),unemployment,실업률(연평균 %),7.0,,,0.0788,0.8859
+decision,결의 시점 (Y+1년 1~3월),diff,dps_growth_median,주당배당금 증가율 중앙값(%),employment,고용률(연평균 %),7.0,,,-0.1773,0.7258
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,0.3214,0.4999
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,-0.2143,0.6678
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,-0.1071,0.846
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,0.0,1.0
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,0.3214,0.497
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,0.0357,0.9622
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,0.1071,0.8437
+decision,결의 시점 (Y+1년 1~3월),diff,dps_up_share,주당배당금 올린 회사 비율(%),employment,고용률(연평균 %),7.0,,,-0.3214,0.5027
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),current_account,"경상수지(연간, 백만달러)",7.0,,,-0.3214,0.5024
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),base_rate,기준금리(연평균 %),7.0,,,0.2143,0.6641
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),ktb3y,국고채 3년(연평균 %),7.0,,,0.1071,0.8425
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),usdkrw,원/달러(연평균),7.0,,,-0.1786,0.7126
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),gdp_growth,실질 GDP 성장률(%),7.0,,,-0.2857,0.5559
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),cpi_growth,물가상승률(%),7.0,,,0.1429,0.7875
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),unemployment,실업률(연평균 %),7.0,,,0.1429,0.7845
+decision,결의 시점 (Y+1년 1~3월),diff,dps_cut_share,주당배당금 줄인 회사 비율(%),employment,고용률(연평균 %),7.0,,,0.0714,0.9044
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),current_account,"경상수지(연간, 백만달러)",8.0,,,-0.2635,0.5318
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),base_rate,기준금리(연평균 %),8.0,,,0.2635,0.52
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),ktb3y,국고채 3년(연평균 %),8.0,,,-0.1557,0.7149
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),usdkrw,원/달러(연평균),8.0,,,0.2874,0.49
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),gdp_growth,실질 GDP 성장률(%),8.0,,,-0.5389,0.179
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),cpi_growth,물가상승률(%),8.0,,,-0.527,0.184
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),unemployment,실업률(연평균 %),8.0,,,0.2515,0.5508
+decision,결의 시점 (Y+1년 1~3월),diff,yield_median,시가배당률 중앙값(%),employment,고용률(연평균 %),8.0,,,-0.1078,0.8124
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3908.0,8.0,0.0927,0.3778
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3908.0,8.0,-0.0027,0.9785
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3908.0,8.0,0.0755,0.4723
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3908.0,8.0,-0.0486,0.6722
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3908.0,8.0,0.1525,0.08
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3908.0,8.0,0.0054,0.964
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3908.0,8.0,0.0128,0.9055
+decision,결의 시점 (Y+1년 1~3월),panel,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3908.0,8.0,-0.0247,0.8036
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4899.0,8.0,0.1094,0.3178
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4899.0,8.0,0.0036,0.977
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4899.0,8.0,0.084,0.4528
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4899.0,8.0,-0.0583,0.6347
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4899.0,8.0,0.1513,0.0885
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4899.0,8.0,0.0264,0.8251
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4899.0,8.0,0.0222,0.8616
+decision,결의 시점 (Y+1년 1~3월),panel,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4899.0,8.0,-0.0214,0.8586
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),current_account_chg,경상수지 증감(백만달러),,3343.0,7.0,-0.0443,0.3833
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),base_rate_chg,기준금리 변화(%p),,3343.0,7.0,0.0202,0.7321
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),ktb3y_chg,국고채 3년 변화(%p),,3343.0,7.0,0.0153,0.7996
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),usdkrw_growth,원/달러 변화율(%),,3343.0,7.0,0.0593,0.2039
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),gdp_growth,실질 GDP 성장률(%),,3343.0,7.0,0.0364,0.5127
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),cpi_growth,물가상승률(%),,3343.0,7.0,0.0331,0.5377
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),unemployment_chg,실업률 변화(%p),,3343.0,7.0,-0.0586,0.2019
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_growth,주당배당금 증가율(%),employment_chg,고용률 변화(%p),,3343.0,7.0,0.0417,0.4348
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),current_account_chg,경상수지 증감(백만달러),,4269.0,7.0,-0.0382,0.3058
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),base_rate_chg,기준금리 변화(%p),,4269.0,7.0,0.0286,0.4658
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),ktb3y_chg,국고채 3년 변화(%p),,4269.0,7.0,0.0228,0.5632
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),usdkrw_growth,원/달러 변화율(%),,4269.0,7.0,0.0524,0.1554
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),gdp_growth,실질 GDP 성장률(%),,4269.0,7.0,0.0182,0.6312
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),cpi_growth,물가상승률(%),,4269.0,7.0,0.0526,0.1364
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),unemployment_chg,실업률 변화(%p),,4269.0,7.0,-0.0448,0.2329
+decision,결의 시점 (Y+1년 1~3월),panel_ex2025,dps_up,주당배당금 올림(1/0),employment_chg,고용률 변화(%p),,4269.0,7.0,0.046,0.2224

@@ -1,0 +1,35 @@
+# dino-rex가 만든 기본 제외 목록 — 비밀값과 큰 데이터가 커밋되지 않게
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets*
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+data/raw/
+node_modules/
+dist/
+
+# 타팀 협조 데이터 원본 (용량이 크고 우리 것이 아님) — README만 커밋
+data/partner/*/원본
+data/partner/*/원본/
+# 4조 협조 데이터로 만든 검산표 엑셀 (크고 다시 만들 수 있음)
+data/partner/*/*.xlsx
+
+.superpowers/
+팀공유/
+*.duckdb
+
+# DB 덤프와 그 확인표는 직접 전달한다 (scripts.export_db)
+*.dump
+data/db/onepick_*.json
+
+# Claude Code 미리보기 설정 (컴퓨터마다 경로가 다름)
+.claude/
+
+# source/ 설치할 때 생기는 파일
+*.egg-info/
